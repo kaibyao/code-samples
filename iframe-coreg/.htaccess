@@ -1,7 +1,0 @@
-RewriteEngine on
-RewriteCond %{HTTP_HOST} ^chreg.com$ [NC]
-RewriteRule ^(.*)$ http://www.chreg.com/$1 [R=301,L]
-RewriteCond %{THE_REQUEST} ^[A-Z]{3,9}\ /index\.php\ HTTP/
-RewriteRule ^index\.php$ http://www.chreg.com/$1 [R=301,L]
-
-#php_flag display_errors off
