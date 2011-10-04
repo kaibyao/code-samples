@@ -1,0 +1,44 @@
+.formWrapper { border: 5px solid #8AB9C7; margin-bottom: 40px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; }
+.formWrapper h2 { font-family: Georgia,"Times New Roman",Times,serif; font-size: 18px; }
+.yesNoYes { margin-left: 5px; }
+.yesNoNo { margin-left: 20px; }
+.formProcessWaiting { margin-top: 10px; display: none; }
+.coregForm { font-size: 14px; }
+	.coregForm li { margin-top: 8px; }
+		.coregForm li label { display: block; float: left; width: 300px; text-align: right; padding-right: 10px; clear: left; height: 29px; line-height: 29px; }
+	.coregForm .formInputText, .coregForm .formSelect { font-size: 14px; padding: 2px 2px 2px 10px; height: 25px; line-height: 25px; }
+	.coregForm .formInputText { width: 260px; }
+	.coregForm .formSelect { margin-top: 2px; }
+	.coregForm .submitWrapper { text-align: center; }
+	.coregForm .submit { border: 0; background-color: #f79100; color: #fff; font-size: 24px; font-weight: bold; -webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px; height: 50px; line-height: 50px; width: 300px; font-family: arial, "Helvetica Neue", Helvetica, Verdana, Geneva, sans-serif; margin-top: 10px; }
+	.coregForm .submitDisclaimer { font-size: 11px; text-align: center; }
+	.coregForm .phone1, .phone2 { width: 45px !important; }
+	.coregForm .phone3 { width: 60px !important; }
+	.coregForm .zip { width: 60px !important; }
+	.coregForm .interest { font-size:11px; width:280px; height: 30px; line-height: 30px; }
+	.coregForm .radioWrapper { line-height: 29px; height: 29px; }
+
+.pathWrapper { border: 1px solid #ccc; margin-bottom: 40px; padding: 20px; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; overflow: auto; }
+	.pathWrapper h2 { font-family: Georgia, "Times New Roman", Times, serif; }
+	.pathWrapper h2.pathHeader, .pathWrapper h2.pathHeader a { color: #0a3542; }
+	.pathWrapper h2.pathHeader { height: 60px; line-height: 60px; font-size: 16px; font-weight: normal; background: #ddd; border: 1px solid #ccc; -webkit-border-radius: 10px; -moz-border-radius: 10px; border-radius: 10px; padding-left: 20px; margin-bottom: 20px; }
+
+#sideBar { padding-right: 20px; width: 250px; float: left; }
+	#sideBar h2 { border-bottom: 1px solid #ced7d9; color: #0a3542; font-size: 18px; line-height: 21px; margin-bottom: 10px; padding-bottom: 5px; text-align: center; font-weight: normal; }
+	#sideBar p { margin-bottom: 20px; }
+	#sideBar li { list-style-type: circle; margin-left: 15px; }
+
+#mainArea { float: left; overflow: auto; width: 465px; }
+.mainBox { border: 5px solid #8ab9c7; padding: 10px 20px; background-color: #bce7f4; margin-bottom: 20px; }
+	.mainBox h2 { font-size: 21px; margin-bottom: 10px; line-height: 24px; padding-bottom: 10px; border-bottom: 1px solid #8ab9c7; }
+	.mainBox h2 a { color: #0a3542; border: 0 !important; }
+	.mainBox h3 { font-size: 16px; margin-bottom: 10px; font-family: Georgia, "Times New Roman", Times, serif; }
+	.mainBox a { color: #16738f; border-bottom: 1px solid #8ab9c7; }
+	.mainBox li { list-style-type: circle; margin-left: 15px; }
+
+#skipWrapper { border-top: 2px dotted #999; padding: 10px 0; clear: both; overflow: auto; }
+a.skipButton { border: 0; background-color: #749aa6; color: #fff; font-size: 15px; font-weight: bold; -webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px; height: 35px; line-height: 37px; width: 140px; font-family: arial, "Helvetica Neue", Helvetica, Verdana, Geneva, sans-serif; text-align: center; margin-left: 10px; margin-right: 10px; }
+
+a.clickHereBig { background-color: #dc5a02; display: block; color: #fff; font-size: 20px; font-weight: bold; -webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px; height: 45px; line-height: 47px; width: 145px; border: 3px solid #fff; text-align: center; font-family: arial, "Helvetica Neue", Helvetica, Verdana, Geneva, sans-serif; margin-left: 20px; margin-bottom: 10px; }
+
+a.clickHereSmall { background-color: #dc5a02; display: block; color: #fff; font-size: 15px; font-weight: bold; -webkit-border-radius: 8px; -moz-border-radius: 8px; border-radius: 8px; height: 40px; line-height: 42px; width: 130px; border: 2px solid #fff; text-align: center; font-family: arial, "Helvetica Neue", Helvetica, Verdana, Geneva, sans-serif; }

@@ -1,0 +1,1 @@
+<script type="text/javascript">parent.location.href = '<?= $this->redirectURL ?>';</script>
