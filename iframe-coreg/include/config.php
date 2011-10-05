@@ -1,9 +1,9 @@
 <?php
-$GLOBALS['commonRoot'] = "/var/www2/html/common/";
-$GLOBALS['serverPath'] = "/var/www2/html/www.chreg.com/";
+$GLOBALS['commonRoot'] = "/fake_dir/";
+$GLOBALS['serverPath'] = "/fake_dir/";
 $GLOBALS['includePath'] = $GLOBALS['serverPath'] . "include/";
-$GLOBALS['chregUrl'] = "http://www.chreg.com/";
-$GLOBALS['ccttsUrl'] = "http://www.cctts.com/";
+$GLOBALS['chregUrl'] = "fake_url";
+$GLOBALS['ccttsUrl'] = "fake_url";
 
 /*//error reporting
 error_reporting(E_ALL);
