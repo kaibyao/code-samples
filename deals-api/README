@@ -1,1 +1,1 @@
-a sample of the deals API import class that I made. Imports deals from various 3rd parties daily.
+a sample of the deals API import class that I made. Imports deals from various 3rd parties daily. Doesn't include DB queries, as I didn't write them.

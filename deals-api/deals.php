@@ -8,14 +8,14 @@ class deals {
 	public function __construct() {
 		$this->apiList = array(
 			'tippr',
-			/*'buyWithMe',
+			'buyWithMe',
 			'kgbDeals',
 			'cityWide365',
 			'craveASave',
 			'dealon',
 			'dealster',
 			'eversave',
-			'bizdeals'*/
+			'bizdeals'
 		);
 		
 		$this->dealCities = array(); // deal_provider's deal_id (NOT "primary" key deal id) => city id
